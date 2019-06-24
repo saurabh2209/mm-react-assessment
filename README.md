@@ -4,5 +4,9 @@ The goal of this project is to use ReactJS capabilities and its paradigms by cre
 
 ## Instructions
  From the root folder open index.html
+ 
+## Built With
+- REACT
+- [Material-UI](https://material-ui.com/components/dialogs/)
 
 
